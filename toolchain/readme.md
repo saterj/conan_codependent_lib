@@ -16,6 +16,6 @@ arch_build=armv7
 
 [options]
 [build_requires]
-*: selz_sdk/2.7.2.220@SDKS/test
+*: ecu_sdk/2.7.2.220@SDKS/test
 [env]
 ```
